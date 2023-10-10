@@ -5,7 +5,7 @@ You can perform the following actions:
 
 *Note:-* In order to add child node there must be a parent node present if not an alert message will be given
 
-   *Add node*
+   * Add node*
         You can add three types of nodes
             Parent
             Child
